@@ -1,0 +1,62 @@
+[
+    {
+      "id": "019b",
+      "firtname": "Darshan ",
+      "lastname": "B M",
+      "contact": "8097654325",
+      "email": "darshan@gmail.com",
+      "passward": "",
+      "dob": "1998-05-21",
+      "place": "Bennur"
+    },
+    {
+      "id": "02c6",
+      "firtname": "Chethana ",
+      "lastname": "R S",
+      "contact": "8372827162",
+      "email": "chethu@gmail.com",
+      "passward": "",
+      "dob": "2000-08-08",
+      "place": "Gubbi"
+    },
+    {
+      "id": "996d",
+      "firtname": "Manjuvani ",
+      "lastname": " B M",
+      "contact": "9883327784",
+      "email": "manju@gmail.com",
+      "passward": "",
+      "dob": "2000-04-29",
+      "place": "Tumkur"
+    },
+    {
+      "id": "42fc",
+      "firtname": "Janu",
+      "lastname": "B L",
+      "contact": "7281726382",
+      "email": "janu@gmail.com",
+      "passward": "",
+      "dob": "2016-04-21",
+      "place": "KB Cross"
+    },
+    {
+      "id": "0e95",
+      "firtname": "Harsha",
+      "lastname": "B L",
+      "contact": "8372819283",
+      "email": "harsha@gmail.com",
+      "passward": "",
+      "dob": "2007-03-15",
+      "place": "C N Halli"
+    },
+    {
+      "id": "4f69",
+      "firtname": "Shashank",
+      "lastname": "R S",
+      "contact": "7655498766",
+      "email": "shashank@gmail.com",
+      "passward": "",
+      "dob": "2003-04-22",
+      "place": "Gubbi"
+    }
+  ]
