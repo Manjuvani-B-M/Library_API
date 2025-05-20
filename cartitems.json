@@ -1,0 +1,189 @@
+[
+    {
+      "title": "Collective Intelligence in Action",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alag.jpg",
+      "authors": [
+        "Satnam Alag"
+      ],
+      "categories": "web technology",
+      "id": "e073"
+    },
+    {
+      "id": "3f61",
+      "title": "GWT in Practice",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cooper.jpg",
+      "authors": [
+        "Robert Cooper",
+        "Charles Collins"
+      ],
+      "categories": [
+        "Web Development"
+      ]
+    },
+    {
+      "id": "c95f",
+      "title": "Brownfield Application Development in .NET",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/baley.jpg",
+      "authors": [
+        "Kyle Baley",
+        "Donald Belcham"
+      ],
+      "categories": [
+        "Microsoft"
+      ]
+    },
+    {
+      "id": "5e00",
+      "title": "Zend Framework in Action",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg",
+      "authors": [
+        "Rob Allen",
+        "Nick Lo",
+        "Steven Brown"
+      ],
+      "categories": [
+        "Web Development"
+      ]
+    },
+    {
+      "id": "c540",
+      "title": "Flex on Java",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allmon.jpg",
+      "authors": [
+        "Bernerd Allmon",
+        "Jeremy Anderson"
+      ],
+      "categories": [
+        "Internet"
+      ]
+    },
+    {
+      "id": "098e",
+      "title": "Hello! Flex 4",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/armstrong3.jpg",
+      "authors": [
+        "Peter Armstrong"
+      ],
+      "categories": [
+        "Internet"
+      ]
+    },
+    {
+      "id": "7fed",
+      "title": "Brownfield Application Development in .NET",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/baley.jpg",
+      "authors": [
+        "Kyle Baley",
+        "Donald Belcham"
+      ],
+      "categories": [
+        "Microsoft"
+      ]
+    },
+    {
+      "id": "1088",
+      "title": "Distributed Application Development with PowerBuilder 6.0",
+      "authors": [
+        "Michael J. Barlotta"
+      ],
+      "categories": [
+        "PowerBuilder"
+      ]
+    },
+    {
+      "id": "2a9a",
+      "title": "Zend Framework in Action",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg",
+      "authors": [
+        "Rob Allen",
+        "Nick Lo",
+        "Steven Brown"
+      ],
+      "categories": [
+        "Web Development"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Zend Framework in Action",
+      "isbn": "1933988320",
+      "pageCount": 432,
+      "publishedDate": {
+        "$date": "2008-12-01T00:00:00.000-0800"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg",
+      "shortDescription": "Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application.",
+      "longDescription": "From rather humble beginnings as the Personal Home Page scripting language, PHP has found its way into almost every server, corporation, and dev shop in the world. On an average day, somewhere between 500,000 and 2 million coders do something in PHP. Even when you use a well-understood language like PHP, building a modern web application requires tools that decrease development time and cost while improving code quality. Frameworks such as Ruby-on-Rails and Django have been getting a lot of attention as a result.     For PHP coders, the Zend Framework offers that same promise without the need to move away from PHP. This powerful collection of components can be used in part or as a whole to speed up the development process. Zend Framework has the backing of Zend Technologies; the driving force behind the PHP programming language in which it is written. The first production release of the Zend Framework became available in July of 2007.    Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application. This book is organized around the techniques you'll use every day as a web developer \"data handling, forms, authentication, and so forth. As you follow the running example, you'll learn to build interactive Ajax-driven features into your application without sacrificing nuts-and-bolts considerations like security and performance.  This book is aimed at the competent PHP developer who wants to master framework-driven web development. Zend Framework in Action goes beyond the docs but still provides quick access to the most common topics encountered in the development of web applications.  ",
+      "status": "PUBLISH",
+      "authors": [
+        "Rob Allen",
+        "Nick Lo",
+        "Steven Brown"
+      ],
+      "categories": [
+        "Web Development"
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Hibernate in Action",
+      "isbn": "193239415X",
+      "pageCount": 400,
+      "publishedDate": {
+        "$date": "2004-08-01T00:00:00.000-0700"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer.jpg",
+      "shortDescription": "\"2005 Best Java Book!\" -- Java Developer's Journal",
+      "longDescription": "Hibernate practically exploded on the Java scene. Why is this open-source tool so popular  Because it automates a tedious task: persisting your Java objects to a relational database. The inevitable mismatch between your object-oriented code and the relational database requires you to write code that maps one to the other. This code is often complex, tedious and costly to develop. Hibernate does the mapping for you.    Not only that, Hibernate makes it easy. Positioned as a layer between your application and your database, Hibernate takes care of loading and saving of objects. Hibernate applications are cheaper, more portable, and more resilient to change. And they perform better than anything you are likely to develop yourself.    Hibernate in Action carefully explains the concepts you need, then gets you going. It builds on a single example to show you how to use Hibernate in practice, how to deal with concurrency and transactions, how to efficiently retrieve objects and use caching.    The authors created Hibernate and they field questions from the Hibernate community every day - they know how to make Hibernate sing. Knowledge and insight seep out of every pore of this book.",
+      "status": "PUBLISH",
+      "authors": [
+        "Christian Bauer",
+        "Gavin King"
+      ],
+      "categories": [
+        "Java"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Zend Framework in Action",
+      "isbn": "1933988320",
+      "pageCount": 432,
+      "publishedDate": {
+        "$date": "2008-12-01T00:00:00.000-0800"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg",
+      "shortDescription": "Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application.",
+      "longDescription": "From rather humble beginnings as the Personal Home Page scripting language, PHP has found its way into almost every server, corporation, and dev shop in the world. On an average day, somewhere between 500,000 and 2 million coders do something in PHP. Even when you use a well-understood language like PHP, building a modern web application requires tools that decrease development time and cost while improving code quality. Frameworks such as Ruby-on-Rails and Django have been getting a lot of attention as a result.     For PHP coders, the Zend Framework offers that same promise without the need to move away from PHP. This powerful collection of components can be used in part or as a whole to speed up the development process. Zend Framework has the backing of Zend Technologies; the driving force behind the PHP programming language in which it is written. The first production release of the Zend Framework became available in July of 2007.    Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application. This book is organized around the techniques you'll use every day as a web developer \"data handling, forms, authentication, and so forth. As you follow the running example, you'll learn to build interactive Ajax-driven features into your application without sacrificing nuts-and-bolts considerations like security and performance.  This book is aimed at the competent PHP developer who wants to master framework-driven web development. Zend Framework in Action goes beyond the docs but still provides quick access to the most common topics encountered in the development of web applications.  ",
+      "status": "PUBLISH",
+      "authors": [
+        "Rob Allen",
+        "Nick Lo",
+        "Steven Brown"
+      ],
+      "categories": [
+        "Web Development"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Zend Framework in Action",
+      "isbn": "1933988320",
+      "pageCount": 432,
+      "publishedDate": {
+        "$date": "2008-12-01T00:00:00.000-0800"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg",
+      "shortDescription": "Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application.",
+      "longDescription": "From rather humble beginnings as the Personal Home Page scripting language, PHP has found its way into almost every server, corporation, and dev shop in the world. On an average day, somewhere between 500,000 and 2 million coders do something in PHP. Even when you use a well-understood language like PHP, building a modern web application requires tools that decrease development time and cost while improving code quality. Frameworks such as Ruby-on-Rails and Django have been getting a lot of attention as a result.     For PHP coders, the Zend Framework offers that same promise without the need to move away from PHP. This powerful collection of components can be used in part or as a whole to speed up the development process. Zend Framework has the backing of Zend Technologies; the driving force behind the PHP programming language in which it is written. The first production release of the Zend Framework became available in July of 2007.    Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application. This book is organized around the techniques you'll use every day as a web developer \"data handling, forms, authentication, and so forth. As you follow the running example, you'll learn to build interactive Ajax-driven features into your application without sacrificing nuts-and-bolts considerations like security and performance.  This book is aimed at the competent PHP developer who wants to master framework-driven web development. Zend Framework in Action goes beyond the docs but still provides quick access to the most common topics encountered in the development of web applications.  ",
+      "status": "PUBLISH",
+      "authors": [
+        "Rob Allen",
+        "Nick Lo",
+        "Steven Brown"
+      ],
+      "categories": [
+        "Web Development"
+      ]
+    }
+  ]
